@@ -1,5 +1,7 @@
 # GithubFullscreenIssuePoC
 
+# WARNING - PoC WAS HIJACKED AND IS CURRENTLY UNSAFE
+
 This repo is to demonstrate an issue with Github that covers the users screen when they interact with an issue.
 
 Issue Link / PoC: Temporarily removed due to comment hijack
