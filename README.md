@@ -1,6 +1,6 @@
 # GithubFullscreenIssuePoC
 
-This repo is to demonstrate an issue with Github that covers the users screen when they visit a custom crafted issue / user profile.
+This repo is to demonstrate an issue with Github that covers the users screen with an image / gif when they visit a custom crafted issue / user profile.
 
 Issue Link / PoC: [Here](https://github.com/Reelix/GithubFullscreenIssuePoC/issues/1)  
 
