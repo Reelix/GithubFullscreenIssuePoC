@@ -6,7 +6,7 @@ Issue Link / PoC: [Here](https://github.com/Reelix/GithubFullscreenIssuePoC/issu
 
 Note: Issue as been closed and locked due to abuse by third-party users.  
 
-Issue Source:
+Issue Source (May contain needless markup - PoC was taken from in-progress exploits):
 
 ```
 Test
