@@ -4,6 +4,8 @@ This repo is to demonstrate an issue with Github that covers the users screen wi
 
 Issue Link / PoC: [Here](https://github.com/Reelix/GithubFullscreenIssuePoC/issues/1)  
 
+Fullscreen Repo Demo: [Here](https://github.com/Reelix/GithubFullscreenIssuePoC2)
+
 Note: Issue as been closed and locked due to abuse by third-party users.  
 
 Issue Source (May contain needless markup - PoC was taken and modified from live exploits):
