@@ -1,3 +1,7 @@
+# Update
+
+This issue has since been (Mostly) fixed.
+
 # GithubFullscreenIssuePoC
 
 This repo is to demonstrate an issue with Github that covers the users screen with an image / gif when they visit a custom crafted issue / user profile.
