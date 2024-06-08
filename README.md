@@ -1,10 +1,10 @@
 # GithubFullscreenIssuePoC
 
-This repo is to demonstrate an issue with Github that covers the users screen when they interact with an issue.
+This repo is to demonstrate an issue with Github that covers the users screen when they load a page (Eg: Issue / User Profile)
 
 Issue Link / PoC: [Here](https://github.com/Reelix/GithubFullscreenIssuePoC/issues/1)  
 
-Note: Issue as been closed and locked due to abuse by third-party users, however this can be applied to both open issues, as well as user profiles.
+Note: Issue as been closed and locked due to abuse by third-party users.
 
 ```
 Test
